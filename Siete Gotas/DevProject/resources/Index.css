@@ -1,0 +1,83 @@
+
+footer {
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  font-family: "Montez", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+ul{
+  padding: 0.5em;
+  margin-top:0.2em;
+  margin-bottom: 0.2em;
+  font-family: "Montez", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 22px;
+
+}
+li {
+  display: inline-block;
+  text-align: center; 
+  /*border: 0.15em solid black;*/
+  border-radius: 1em;
+  box-shadow: 0.5em 0.5em 0.5em black;
+  border-collapse: collapse;
+  list-style-type: none;
+  padding: 1em;
+  margin: 0.25em;
+  width: 18%;
+
+}
+p {
+  position: relative;
+  font-family: MedievalSharp, cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 17px;
+  text-align: center;
+}
+
+#Premessa {
+  font-family: Saira Stencil One, sans-serif;
+  font-weight: lighter;
+  font-style: normal;
+  font-size: 30px;
+  text-align: center;
+}
+#Clips {
+  background-image: linear-gradient(to right, white, white, lightblue);
+  border-radius: 1em;
+  box-shadow: 0.5em 0.5em 0.5em black;
+  padding: 1em;
+  margin: 0.25em;
+  width: auto;
+  text-align: center;
+  font-family: Saira Stencil One, sans-serif;
+  font-weight: lighter;
+  font-style: normal;
+  font-size: 30px;
+}
+#YT {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQBXZ_2Xe0PeJqEXqecllHqC0755h7JPP_bA&usqp=CAU");
+}
+
+#Tik-Tok {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEPs1DDzocugyO9VqfHghC9vWdYJqGAauGHg&usqp=CAU");
+}
+
+#Discord {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDBK-YTSl2YFTH9FMNku3HEaUXVgBECeeqOw&usqp=CAU");
+}
+.Norish {
+  /*position: fixed;*/
+  background-color: black;
+  color: white;
+  border-radius: 1em;
+  box-shadow: 0.5em 0.5em 0.5em black;
+}
+a:hover {
+  color: red;
+}
